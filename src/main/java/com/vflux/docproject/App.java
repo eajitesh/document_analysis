@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Hello world!
+ * App for document matching
  *
  */
 public class App 
